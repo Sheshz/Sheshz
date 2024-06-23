@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Welcome to my GitHub profile 😎</><br>My name Sheshan Perera 🚀<br>It's nice to meet you. 🤝<br>I'm currently following an degree in software engineering at Sri Lanka Institute of Information Technology👨‍🎓 <br>
+Welcome to my GitHub profile 😎</><br>My name Sheshan Perera 🚀<br>It's nice to meet you. 🤝<br>I'm currently following an degree in Information Techology at Sri Lanka Institute of Information Technology👨‍🎓 <br>
 
 
 ## 🌐 Socials:
